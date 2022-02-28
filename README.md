@@ -1,0 +1,2 @@
+# todolist-clone
+eğitim amaçlıdır.
